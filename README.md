@@ -1,4 +1,4 @@
-# SemanaOminiStack11
+# Semana OminiStack 11
 
 # Back-end:
     Regras de negócio;
