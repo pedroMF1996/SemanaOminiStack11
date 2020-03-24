@@ -19,7 +19,6 @@
        Apágina nunca recarrega, otimizando a performance e dando vida ao conceito de SPA. Retornando apenas JSON podemos ter quantos front-ends quisermos.
 
 
-<<<<<<< HEAD
 # Front-end:
     web
     mobile
