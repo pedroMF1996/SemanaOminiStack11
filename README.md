@@ -35,3 +35,30 @@
   Com o Expo, nós instalamos um aplicativo no celular chamado Expo, e dentro dele, tudo o que precisamos para desenvolver no React Native já está instalado, como as API's de mapas, geolocaliação, câmera, sensores, calendários, etc...
 
   Com isso, não precisamos nos preocupar em gerar o aplicativo para Android e IOS já que o app do Expo instalado tem tudo o que precisamos e assim usamos apenas React.
+
+
+# Rota /Recurso;
+
+# Métodos HTTP:
+  GET: Buscar uma informação do back-end
+  POST: Criar uma informação do back-end
+  PUT: Alterar uma informação do back-end
+  DELETE: Deletar uma informação do back-end
+
+
+
+# Tipos de parametros:
+  Query Params: Parametros nomeados enviados na rota após "?"(filtros,paginação)
+  Rote Params: Parametros usados pra identificar recursos
+ 
+  Request Body: Corpo da requisição usado para criar ou alterar recursos
+
+
+
+# Tipos de banco de dados:
+     SQL: MySQL, SQLite, PostgreSQL, Oracle, MSSQL
+     NOSQL: MONGODB, COUCHDB, etc;
+ Driver: SELECT * FROM users
+ Query builder: table(users).select('*').where();
+  KNEX.JS
+ 
