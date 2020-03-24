@@ -1,14 +1,22 @@
 # Semana OminiStack 11
 
+<<<<<<< HEAD
 # Back-end:
+=======
+# Back-end
+>>>>>>> 7936d8ceb2f8f3776c2d0bb00c07c51dc406c801
     Regras de negócio;
     Conexão com o banco de dados;
     Envio de email;
     Comunicação com webservices;
     Autenticação do usuário;
     Criptografia e segurança;
+<<<<<<< HEAD
 
 # Abordagem tradicional:
+=======
+  # Abordagem tradicional:
+>>>>>>> 7936d8ceb2f8f3776c2d0bb00c07c51dc406c801
    A cada requisição, o servidor retorna o conteúdo completo da página, contendo todo o HTML e CSS.
    Essa abordagem limita o front-end para o browser já que o aplicativo mobile ou os serviços externos não vão conseguir interpretar o HTML.
 
@@ -17,7 +25,11 @@
        Apágina nunca recarrega, otimizando a performance e dando vida ao conceito de SPA. Retornando apenas JSON podemos ter quantos front-ends quisermos.
 
 
+<<<<<<< HEAD
 # Front-end:
+=======
+# Front-end
+>>>>>>> 7936d8ceb2f8f3776c2d0bb00c07c51dc406c801
     web
     mobile
     externos
