@@ -62,3 +62,16 @@
  Query builder: table(users).select('*').where();
   KNEX.JS
  
+# Entidades da minha aplicação
+  * ONG
+  * Caso - Incident
+
+# Funcionalidades
+  * Login de ONG
+  * Cadastro de ONG 
+  * Logout de ONG
+  * Cadastro de novos casos
+  * Deletar casos
+  * Lisar os casos específicos de uma ONG
+  * Listar todos os casos
+  * Entrar em contato com a ONG
