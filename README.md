@@ -10,7 +10,6 @@
 
 # Front-end:
     web
-    mobile
     externos
 
 # Abordagem tradicional:
